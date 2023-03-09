@@ -1,4 +1,4 @@
-
+<div align="center>
 
 ![image](https://user-images.githubusercontent.com/105429685/223945094-e600cb1c-e947-477a-a170-f0f7d4a996fe.png)
 
@@ -70,4 +70,4 @@
 
 ![image](https://user-images.githubusercontent.com/105429685/223945969-e52bf654-2574-44a9-8df8-0ed1e574989a.png)
 
-
+</div>
